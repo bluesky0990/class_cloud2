@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150558988267",
+    "firebase_url": "https://fir-with-andoridtwo.firebaseio.com",
+    "project_id": "fir-with-andoridtwo",
+    "storage_bucket": "fir-with-andoridtwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150558988267:android:cb912cfb9bd12db5596bae",
+        "android_client_info": {
+          "package_name": "com.nellem.cloud22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150558988267-igvp2h0hbl9fni4mhpor4vvs75a8p6dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAveU2ezizFscrDcvVTR4Zx5OWu60CoADs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150558988267-igvp2h0hbl9fni4mhpor4vvs75a8p6dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
